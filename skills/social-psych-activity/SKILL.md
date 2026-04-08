@@ -1,10 +1,6 @@
 ---
 name: social-psych-activity
-description: >
-  為 114-2 碩士在職專班「社會心理學」課程設計每週課堂活動。
-  當使用者提到要設計某一週的社會心理學課堂活動、提到「社心」活動設計、
-  或指定某個章節要設計暖身或應用活動時，請使用此 skill。
-  也適用於使用者說「繼續下一週」或「設計 W04 / W05 ... 的活動」等延續性指令。
+description: Design weekly classroom activities (warm-up and application) for the graduate social psychology course. Use when designing activities for a specific chapter, or when the user mentions 社心活動、設計W04、繼續下一週, or requests warm-up/activity design for a given week.
 ---
 
 # 社會心理學課堂活動設計
