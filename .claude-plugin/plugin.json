@@ -1,0 +1,14 @@
+{
+  "name": "jsphh-academic",
+  "version": "1.0.0",
+  "description": "Academic research skills for OB/HRM professor — literature review, scientific thinking, paper editing, and more.",
+  "author": "jsphh7124",
+  "skills": [
+    "academic-editor",
+    "content-research-writer",
+    "literature-review",
+    "scientific-critical-thinking",
+    "nlm-skill",
+    "social-psych-activity"
+  ]
+}
